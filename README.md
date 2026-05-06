@@ -88,7 +88,7 @@ Mission:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NiharKNayak&show_icons=true&theme=transparent&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NiharKnaik&show_icons=true&theme=transparent&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NiharKNayak&theme=black-ice&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37" />
 
@@ -100,7 +100,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiharKNayak&bg_color=000000&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiharKNaik&bg_color=000000&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -110,7 +110,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NiharKNayak/NiharKNayak/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/NiharKNaik/NiharKNaik/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 

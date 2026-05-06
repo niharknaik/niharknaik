@@ -90,7 +90,7 @@ Mission:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NiharKnaik&show_icons=true&theme=transparent&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NiharKNayak&theme=black-ice&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NiharKNaik&theme=black-ice&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37" />
 
 </div>
 
@@ -127,10 +127,9 @@ Mission:
 # 📡 CONNECT
 
 ```yaml
-LinkedIn: Add Your Link
-Instagram: Add Your Link
-Twitter/X: Add Your Link
-Email: Add Your Email
+LinkedIn: www.linkedin.com/in/nihar-k-naik-a10b872a8
+Instagram:(https://www.instagram.com/cyber_nihar/)
+Email: nihar@copg.in
 ```
 
 ---
